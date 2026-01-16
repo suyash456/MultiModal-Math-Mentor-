@@ -1,0 +1,15 @@
+Calculus Basics
+
+Derivatives:
+- Definition: f'(x) = lim(h→0) [f(x+h) - f(x)] / h
+- Power rule: d/dx(xⁿ) = nxⁿ⁻¹
+- Product rule: (fg)' = f'g + fg'
+- Quotient rule: (f/g)' = (f'g - fg') / g²
+- Chain rule: (f(g(x)))' = f'(g(x)) × g'(x)
+
+Integrals:
+- Antiderivative: ∫f(x)dx = F(x) + C
+- Power rule: ∫xⁿdx = xⁿ⁺¹/(n+1) + C
+
+Limits:
+- Evaluate by substitution, factoring, or L'Hôpital's rule

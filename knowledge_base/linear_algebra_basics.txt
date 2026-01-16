@@ -1,0 +1,15 @@
+Linear Algebra Basics
+
+Matrices:
+- Addition: element-wise
+- Multiplication: row × column
+- Determinant: det(A) for 2×2: ad - bc
+- Inverse: A⁻¹ = (1/det(A)) × adj(A)
+
+Vectors:
+- Dot product: a·b = Σaᵢbᵢ
+- Cross product: a×b (3D only)
+
+Systems of Equations:
+- Use elimination or substitution
+- Matrix form: Ax = b → x = A⁻¹b

@@ -1,0 +1,15 @@
+Algebra Basics
+
+Key Concepts:
+- Variables: x, y, z represent unknown values
+- Equations: expressions with = sign
+- Solving: isolate the variable
+
+Common Operations:
+- Addition/Subtraction: x + 5 = 10 → x = 5
+- Multiplication/Division: 3x = 15 → x = 5
+- Quadratic Formula: x = (-b ± √(b²-4ac)) / 2a
+
+Example: Solve 2x + 3 = 11
+Step 1: Subtract 3 from both sides → 2x = 8
+Step 2: Divide by 2 → x = 4

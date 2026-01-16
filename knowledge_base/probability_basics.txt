@@ -1,0 +1,14 @@
+Probability Basics
+
+Key Concepts:
+- Probability: P(event) = favorable outcomes / total outcomes
+- Range: 0 ≤ P ≤ 1
+- Complement: P(not A) = 1 - P(A)
+
+Common Formulas:
+- P(A and B) = P(A) × P(B) if independent
+- P(A or B) = P(A) + P(B) - P(A and B)
+- Conditional: P(A|B) = P(A and B) / P(B)
+
+Example: Probability of rolling 6 on a die
+P(6) = 1/6 ≈ 0.167
